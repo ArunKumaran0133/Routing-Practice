@@ -1,0 +1,13 @@
+.about-image {
+  height: 300px;
+  width: 300px;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
